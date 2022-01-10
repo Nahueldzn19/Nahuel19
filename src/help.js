@@ -1,17 +1,15 @@
 const help = (prefix) => {
 	return `
 
-⌜ _*ShanBot by shanduy*_ ⌟  
+⌜ _*NahuelBot by nahuel.dzn*_ ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: shanduy™ 
-   ○ Cómo instalar el bot: https://youtu.be/HxZYNgW9aI8
-   ○ Mi Instagram: https://www.instagram.com/thepavos
+   ○ Creador: nahuel.dzn™ 
+   ○ Mi Instagram: https://www.instagram.com/nahuel.dzn
 
 ◉ *COMUNICADO*
-Nuevo video de cómo instalar el bot :)
-https://youtu.be/HxZYNgW9aI8
+Si quieres saber como instalar el bot consulte a el creador para que en el futuro lo suba en su repositorio
 
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
@@ -107,7 +105,7 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-_*by shanduy*_
+_*by nahuel.dzn*_
 
 
 ⌜ *ごきげんよう :)* ⌟ 

@@ -1,10 +1,10 @@
 const version = (prefix, pushname) => {
     return `
-*ShanBot by shanduy*
+*Nahuel bot by nahuel.dzn*
 
 *Actualizado:* 07 de Enero del 2022
 *Versión actual:* 4.5
-*Ofrecida por:* shanduy™
+*Ofrecida por:* nahuel.dzn™
 
 
 *INFORME*
@@ -15,20 +15,16 @@ Cambiare la apikey pasando un mes o si veo muchos atercados o robos
 Si vez a alguien que robo mi bot comunicate conmigo con el comando *creador
 
 
-*COMO ACTUALIZAR EL BOT*
+*SIGUEME EN YOUTUBE*
 
-https://cutt.ly/dWp5uqE
+https://youtube.com/channel/UCMSnq-4NumQeC6Kk-Dnaoxw
 
-*COMO INSTALAR EL BOT*
+*SIGUEME EN INSTAGRAM*
 
-https://www.youtube.com/watch?v=HxZYNgW9aI8
-
-*SIGUEME EN INSTAGRAM 🥸🧉*
-
-https://www.instagram.com/thepavos
+https://www.instagram.com/nahuel.dzn
 
 
-_*by shanduy*_
+_*by: nahuel.dzn*_
 `
 
 }
